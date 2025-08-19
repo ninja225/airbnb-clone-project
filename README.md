@@ -174,5 +174,47 @@ Remove blockers that hinder team progress.
 Coach the team in Agile principles and practices.
 
 Ensure smooth collaboration between roles.
+############################################################################
+🎨 UI Component Patterns
+
+# 1. Navbar (Navigation Bar)
+
+Description:
+A global navigation component that appears at the top of all pages. It will include the project logo, main navigation links (e.g., Home, Explore, Become a Host, Login/Sign Up), and responsive design for mobile and desktop.
+
+Purpose:
+
+Provide users with quick access to core pages.
+
+Maintain a consistent brand identity.
+
+Ensure mobile-friendly navigation with a collapsible menu.
+
+# 2. Property Card
+
+Description:
+A reusable card component used to display listings (properties or experiences). It will include an image, title, location, price, rating, and a quick action button (e.g., “View Details” or “Book Now”).
+
+Purpose:
+
+Showcase property details in a compact and attractive way.
+
+Ensure consistency across search results and recommendation sections.
+
+Improve user experience with clear, scannable layouts.
+
+# 3. Footer
+
+Description:
+A universal footer at the bottom of all pages, including site-wide links (About, Help, Careers, Terms, Privacy), contact information, and social media icons.
+
+Purpose:
+
+Provide users with additional resources and support links.
+
+Improve navigation for secondary information.
+
+Reinforce branding and professionalism across all pages.
+
 
 Contribution to Success: Helps the team stay productive, motivated, and aligned with Agile best practices.
